@@ -21,4 +21,7 @@ Mock-Up"
 
 *Mock-up: ![Alt text](06-server-side-apis-homework-demo.png)
 
+Next, I got an API key from (https://home.openweathermap.org/)(APIKey ="81056d6729846ca66cccd988812311e5") and created a variable for it in javascript. 
+
+Next I start adding some basics to the css and html files by copying some code from previous assignments.
 
