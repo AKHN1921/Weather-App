@@ -25,3 +25,4 @@ Next, I got an API key from (https://home.openweathermap.org/)(APIKey ="81056d67
 
 Next I start adding some basics to the css and html files by copying some code from previous assignments.
 
+Next, I referenced (https://www.w3schools.com/howto/howto_js_search_menu.asp) for adding and customizing a side search menu in html, css, and js
