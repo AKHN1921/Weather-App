@@ -1,5 +1,10 @@
 var APIKey ="81056d6729846ca66cccd988812311e5";
 
+var today = dayjs();
+$('#currentDate').text(today.format('MMM D, YYYY'));
+
+
+// Side navbar
 function myFunction() {
   // Declare variables
   var input, filter, ul, li, a, i;

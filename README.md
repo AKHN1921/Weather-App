@@ -19,7 +19,7 @@ WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
 Mock-Up"
 
-*Mock-up: ![Alt text](06-server-side-apis-homework-demo.png)
+*Mock-up: ![Alt text](assets/images/06-server-side-apis-homework-demo.png)
 
 Next, I got an API key from (https://home.openweathermap.org/)(APIKey ="81056d6729846ca66cccd988812311e5") and created a variable for it in javascript. 
 
@@ -27,4 +27,7 @@ Next I start adding some basics to the css and html files by copying some code f
 
 Next, I referenced (https://www.w3schools.com/howto/howto_js_search_menu.asp) for adding and customizing a side search menu in html, css, and js
 
-Then I referenced (https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_default&stacked=h) to replace my bootstrap link and customize placeholders.
+Then, I referenced (https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_default&stacked=h) to replace my bootstrap link and customize placeholders.
+
+Next, I got help from a tutor to add the date.
+
